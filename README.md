@@ -40,9 +40,7 @@ Whether you're managing a class project or launching a product, Groupbox keeps y
 - 🗨️ **Chat:** Channels and direct messaging for seamless team communication  
 - ✅ **Tasks:** Assign, track, and prioritize to-dos with deadlines  
 - 📁 **File Sharing:** Attach and manage documents within each project  
-- 📌 **Project Boards:** Keep everything organized in customizable spaces  
-- 🔐 **Role-Based Access:** Fine-grained permissions for secure collaboration  
-- 🌐 **Web-First:** Optimized for all modern devices, no installs required
+- 📌 **Project Boards:** Keep everything organized in customizable spaces    
 
 ---
 
