@@ -8,8 +8,21 @@
 **All-in-one team collaboration for chat, tasks, files, and projects.**  
 _Simple. Lightweight. Built for modern teams and schools._
 
-[🌍 Website](https://groupbox.cloud) • [🚀 Live Demo](https://groupbox.cloud/signup) • [📄 License](https://groupbox.cloud/termsofservice)
+<br>
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://groupbox.cloud" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌍_Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://groupbox.cloud/signup" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://groupbox.cloud/termsofservice" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📄_License-lightgrey?style=for-the-badge&logo=note&logoColor=black" alt="License" />
+  </a>
+</div>
+
+<br>
 </div>
 
 ---
