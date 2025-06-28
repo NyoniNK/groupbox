@@ -1,36 +1,41 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/groupbox-res/image/upload/f_auto,q_auto/v1/Groupbox_WebApp/Branding/Add_a_heading_3_-cropped_msrrwm" alt="Groupbox Logo" width="600" />
-</p>
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://res.cloudinary.com/groupbox-res/image/upload/f_auto,q_auto/v1/Groupbox_WebApp/Branding/Add_a_heading_3_-cropped_msrrwm" alt="Groupbox Logo" width="480" />
+</div>
 
+<div align="center">
 
-# Groupbox
+**All-in-one team collaboration for chat, tasks, files, and projects.**  
+_Simple. Lightweight. Built for modern teams and schools._
 
-[![License](https://groupbox.cloud/termsofservice)](LICENSE)  
+[🌍 Website](https://groupbox.cloud) • [🚀 Live Demo](https://groupbox.cloud/signup) • [📄 License](https://groupbox.cloud/termsofservice)
 
----
-
-## Overview
-
-A modern, lightweight collaboration platform designed to streamline communication, task management, and file sharing for small to medium teams, educational institutions, and startups. It offers a clean, intuitive interface that empowers users to focus on what matters — productive teamwork without the clutter.
-
-Whether you're coordinating projects, managing remote teams, or organizing workflows, Groupbox integrates essential collaboration features into a single unified space.
+</div>
 
 ---
 
-## Key Features
+## 🧭 Overview
 
-- **Chat:** Seamless team messaging with channels and direct messages  
-- **Task Management:** Assign, track, and prioritize tasks with deadlines and statuses  
-- **File Sharing:** Upload and organize files securely within projects  
-- **Project Coordination:** Create and manage multiple projects with ease   
+**Groupbox** is a modern collaboration platform that brings together real-time chat, task tracking, file sharing, and project coordination into a single, clean interface. Designed for speed and simplicity, it helps schools, startups, and small teams stay productive without the clutter of bloated enterprise software.
+
+Whether you're managing a class project or launching a product, Groupbox keeps your team connected, organized, and focused.
 
 ---
 
-## Getting Started
+## ✨ Features
 
-### Live Demo
+- 🗨️ **Chat:** Channels and direct messaging for seamless team communication  
+- ✅ **Tasks:** Assign, track, and prioritize to-dos with deadlines  
+- 📁 **File Sharing:** Attach and manage documents within each project  
+- 📌 **Project Boards:** Keep everything organized in customizable spaces  
+- 🔐 **Role-Based Access:** Fine-grained permissions for secure collaboration  
+- 🌐 **Web-First:** Optimized for all modern devices, no installs required
 
-Explore Groupbox in action at:  
-🌐 [https://groupbox.cloud](https://groupbox.cloud)  
+---
 
+## 🚀 Get Started
 
+### 🔗 Try It Live
+> Launch the web app instantly:  
+> 👉 [https://groupbox.cloud](https://groupbox.cloud)
+ 
