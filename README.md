@@ -16,7 +16,7 @@ _Simple. Lightweight. Built for modern teams and schools._
 
 ## 🧭 Overview
 
-**Groupbox** is a modern collaboration platform that brings together real-time chat, task tracking, file sharing, and project coordination into a single, clean interface. Designed for speed and simplicity, it helps schools, startups, and small teams stay productive without the clutter of bloated enterprise software.
+**Groupbox** is a collaboration platform that brings together real-time chat, task tracking, file sharing, and project coordination into a single, clean interface. Designed for speed and simplicity, it helps schools, startups, and small teams stay productive without the clutter of bloated enterprise software.
 
 Whether you're managing a class project or launching a product, Groupbox keeps your team connected, organized, and focused.
 
