@@ -45,7 +45,6 @@ Whether you're managing a class project or launching a product, Groupbox keeps y
 
 ## 🚀 Get Started
 
-### 🔗 Try It Live
-> Launch the web app instantly:  
+### 🔗 Try It Live 
 > 👉 [https://groupbox.cloud](https://groupbox.cloud)
  
