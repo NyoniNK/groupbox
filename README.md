@@ -31,6 +31,6 @@ Whether you're coordinating projects, managing remote teams, or organizing workf
 ### Live Demo
 
 Explore Groupbox in action at:  
-🌐 [https://client.groupbox.cloud](https://client.groupbox.cloud)  
+🌐 [https://groupbox.cloud](https://groupbox.cloud)  
 
 
